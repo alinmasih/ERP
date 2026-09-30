@@ -1,0 +1,2 @@
+kth position from the start kth from the last yeh node pakdne hai
+swap the values
